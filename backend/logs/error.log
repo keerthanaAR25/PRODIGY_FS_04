@@ -11,3 +11,4 @@
 {"level":"error","message":"Auth middleware error:","timestamp":"2026-03-11 02:44:50"}
 {"level":"error","message":"Auth middleware error:","timestamp":"2026-03-11 02:44:50"}
 {"level":"error","message":"Auth middleware error:","timestamp":"2026-03-11 02:44:59"}
+{"level":"error","message":"Error: write ECONNRESET\n    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)","service":"chat-app","timestamp":"2026-03-11 22:04:34"}
